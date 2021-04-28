@@ -1,4 +1,11 @@
-# inventoryweb-ci3
+# Inventoryweb-ci3
+
+Required
+1. Download Mpdf with composer
+2. Composer command
+
+composer require mpdf/mpdf
+
 
 Framework used : Codeigniter 3.1.11
 
