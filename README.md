@@ -57,4 +57,4 @@ preview :
 
 ![user-inventoryweb](https://user-images.githubusercontent.com/47371845/116356283-4633fa80-a825-11eb-93e3-e2b264291bdf.PNG)
 
-
+![profil-inventoryweb](https://user-images.githubusercontent.com/47371845/116357307-8d6ebb00-a826-11eb-8dea-da03e642a0ae.PNG)
