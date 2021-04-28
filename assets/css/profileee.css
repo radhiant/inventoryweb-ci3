@@ -1,0 +1,41 @@
+.posisi {
+    position: relative;
+    transform: translateY(-6.5rem);
+}
+
+.posisi3 {
+    position: relative;
+    transform: translateY(-6rem);
+}
+
+.posisi4 {
+    transform: translateY(-3rem);
+}
+
+.posisi2 {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.0);
+    transition: 500ms;
+}
+
+.text {
+    transition: 500ms;
+    color: rgba(255, 255, 255, 0.0);
+}
+
+.posisi2:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.posisi2:hover .text {
+    color: rgba(255, 255, 255, 1.0);
+}
+
+.box-circle {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

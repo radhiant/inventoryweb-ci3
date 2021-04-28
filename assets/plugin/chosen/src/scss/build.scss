@@ -1,0 +1,20 @@
+/*
+ *
+ *
+ *
+ * Bootstrap 4 Component - Chosen
+ * Version: 1.0.10
+ * Copyright (c) 2017-18 Martin Haubek
+ *
+ *
+ *
+ */
+
+@import "./node_modules/sass-svg-uri/_svg-uri.scss";
+
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/variables";
+@import "./node_modules/bootstrap/scss/mixins";
+
+@import "component-variables";
+@import "component-chosen";
