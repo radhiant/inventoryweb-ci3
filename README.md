@@ -33,7 +33,8 @@ features:
 - Laporan Barang Masuk
 - Laporan Barang Keluar
 
-preview
+preview :
+
 ![login-inventoryweb](https://user-images.githubusercontent.com/47371845/116355365-f0ab1e00-a823-11eb-9c63-dabe8da1c919.PNG)
 
 ![inventoryweb](https://user-images.githubusercontent.com/47371845/116355430-0a4c6580-a824-11eb-9b0d-c52bdcdc2f36.PNG)
